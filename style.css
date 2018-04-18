@@ -1,0 +1,111 @@
+html
+{
+	background-color: #eaeaea;
+}
+
+h2
+{
+	margin-top: 0px;
+}
+
+body
+{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	width: 800px;
+	background-color: white;
+	height: 100%;
+}
+
+.btn
+{
+	padding: 10px 20px;
+	background-color: #333;
+	color: white;
+	border: none;
+	border-radius: 5px;
+}
+
+.top-bar
+{
+	background-color: #333;
+	color: white;
+	display: flex;
+}
+
+.title
+{
+	padding: 20px;
+	width: 50%;
+}
+
+.menu
+{
+	text-align: right;
+	padding: 20px;
+	width: 50%;
+}
+
+.menu a
+{
+	color: white;
+	padding: 0px 10px;
+}
+
+.form
+{
+	padding: 20px;
+}
+
+.form input
+{
+	margin: 10px 0px;
+}
+
+.form .btn
+{
+	margin-top: 0px;
+}
+
+.formlist
+{
+	padding: 20px;
+}
+
+.formlist .btn
+{
+	margin-top: 30px;	
+}
+
+.formlist input
+{
+	margin: 10px 0px;
+}
+
+.voted
+{
+	padding: 20px;
+}
+
+.tbl
+{
+	width: 400px;
+}
+
+.tbl td
+{
+	padding: 15px;
+	border: 1px solid #555;
+}
+
+.sechead
+{
+	padding: 30px;
+}
+
+tr:first-child
+{
+	background-color: #27ae60;
+	color: white;
+}
